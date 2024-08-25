@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I love working on UI and UX, and I enjoy playing with colors and designs. I have completed projects using React Native and full-stack technologies. I am knowledgeable in frontend technologies and AWS technologies.
+Heyy there! I'm Vivek Bahadkar with whom impromptu outings and deadline can be striked . I always manage  to have a green hat on. You see that boy with a mac, helping others with any technical issue yeah that's me.  I possess  love for designing and flair for vintage music.
 
 
 ## 🌐 Socials:
