@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 🌟 About Me:
 👋 Hey there! I'm Vivek Bahadkar—a creative mind with a knack for:  
 
 🌐 Full Stack Web Development  
