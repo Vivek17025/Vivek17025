@@ -3,8 +3,11 @@
 👋 Welcome to my profile! I'm Vivek Bahadkar, a versatile professional:
 
 🌐 Full Stack Web Developer
+
 🎨 UI/UX Designer
+
 💼 Freelancer
+
 💡 Problem Solver
 
 Feel free to connect via email at "bahadkarvivek@gmail.com" Let's collaborate and create something amazing! 😊🚀
