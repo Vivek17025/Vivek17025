@@ -1,7 +1,13 @@
-## Hi there 👋
 
 # 💫 About Me:
-Heyy there! I'm Vivek Bahadkar with whom impromptu outings and deadline can be striked . I always manage  to have a green hat on. You see that boy with a mac, helping others with any technical issue yeah that's me.  I possess  love for designing and flair for vintage music.
+👋 Welcome to my profile! I'm Vivek Bahadkar, a versatile professional:
+
+🌐 Full Stack Web Developer
+🎨 UI/UX Designer
+💼 Freelancer
+💡 Problem Solver
+
+Feel free to connect via email at "bahadkarvivek@gmail.com" Let's collaborate and create something amazing! 😊🚀
 
 
 ## 🌐 Socials:
